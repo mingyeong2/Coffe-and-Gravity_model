@@ -1,4 +1,4 @@
-# Coffe-and-Gravity_model
+# Coffee-and-Gravity_model
 
 This project's goal is verifying gravity model for coffee bean trade. 
 
